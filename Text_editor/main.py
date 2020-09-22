@@ -5,5 +5,6 @@ from lib.library import *
 
 root = textEditor("window" , "content")
 root.create()
-root.add_text()
+root.add_Text()
+root.add_menu()
 root.generate()
